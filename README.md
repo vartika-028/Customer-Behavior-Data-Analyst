@@ -54,6 +54,7 @@ An interactive Power BI dashboard was built to visualize:
 - Subscription distribution
 - Shipping preferences
 - Customer segmentation
+- <img width="1794" height="975" alt="Image" src="https://github.com/user-attachments/assets/4f365997-5879-4b69-b951-b5df118e6d25" />
 
 
 
